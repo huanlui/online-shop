@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dba55b89-0994-4c1e-9573-3335e8fa42ac/deploy-status)](https://app.netlify.com/sites/cartagena-121/deploys)
+
 # Description
 
 Online shop prototype implemented using React, Redux, React Router, and React Material UI library. 
